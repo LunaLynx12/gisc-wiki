@@ -21,10 +21,13 @@ The GISC Wiki is a lightweight, client-side wiki designed for easy content manag
 ├── script.js           # JavaScript for dynamic content loading
 ├── categories.json     # Lists all categories and their JSON file references
 ├── content/            # Folder containing individual category JSON files
-│   ├── networking.json
-│   ├── log-analysis.json
+│   ├── splunk.json
+│   ├── wazuh.json
 │   └── ...
 └── images/             # Folder for images used in wiki articles
+    ├── splunk
+│   ├── wazuh
+│   └── ...
 ```
 
 ## How It Works

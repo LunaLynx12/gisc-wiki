@@ -58,7 +58,7 @@
               },
               {
                 "type": "image",
-                "value": "https://ld-images-2.s3.us-east-2.amazonaws.com/Splunk/images/Install1.png"
+                "value": "content/images/splunk/Install1.png"
               },
               {
                 "type": "list",
@@ -68,7 +68,7 @@
               },
               {
                 "type": "image",
-                "value": "https://ld-images-2.s3.us-east-2.amazonaws.com/Splunk/images/Install2.png"
+                "value": "content/images/splunk/Install2.png"
               },
               {
                 "type": "list",
@@ -78,7 +78,7 @@
               },
               {
                 "type": "image",
-                "value": "https://ld-images-2.s3.us-east-2.amazonaws.com/Splunk/images/install3.png"
+                "value": "content/images/splunk/install3.png"
               },
               {
                 "type": "list",
@@ -90,7 +90,7 @@
               },
               {
                 "type": "image",
-                "value": "https://ld-images-2.s3.us-east-2.amazonaws.com/Splunk/images/install4.png"
+                "value": "content/images/splunk/install4.png"
               },
               {
                 "type": "list",
@@ -102,11 +102,11 @@
               },
               {
                 "type": "image",
-                "value": "https://ld-images-2.s3.us-east-2.amazonaws.com/Splunk/images/Install5.png"
+                "value": "content/images/splunk/Install5.png"
               },
               {
                 "type": "image",
-                "value": "https://ld-images-2.s3.us-east-2.amazonaws.com/Splunk/images/install6.png"
+                "value": "content/images/splunk/install6.png"
               },
               {
                 "type": "text",
@@ -122,7 +122,7 @@
               },
               {
                 "type": "image",
-                "value": "https://ld-images-2.s3.us-east-2.amazonaws.com/Splunk/images/service1.png"
+                "value": "content/images/splunk/service1.png"
               }
         ]
     },

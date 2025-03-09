@@ -21,8 +21,30 @@
         "file": "wazuh.json",
         "topics": [
             { "name": "Introduction to Wazuh", "key": "wazuh_introduction" },
-            { "name": "Wazuh Installation on Windows", "key": "wazuh_install_windows" },
-            { "name": "Wazuh Installation on Linux", "key": "wazuh_install_linux" }
+            { "name": "Wazuh Agent Installation on Windows", "key": "wazuh_install_windows_agent" },
+            { "name": "Wazuh Agent Installation on Linux", "key": "wazuh_install_linux_agent" }
+        ]
+    },
+    {
+        "name": "Suricata",
+        "file": "suricata.json",
+        "topics": [
+            { "name": "Introduction to Suricata", "key": "suricata_introduction" },
+            { "name": "Suricata Installation on Linux", "key": "suricata_install_linux" },
+            { "name": "Basic Configuration", "key": "suricata_basic_configuration" }
+        ]
+    },
+    {
+        "name": "Kali Linux",
+        "file": "kali.json",
+        "topics": [
+            { "name": "Introduction to Kali Linux", "key": "kali_introduction" },
+            { "name": "Kali Linux Installation", "key": "kali_installation" },
+            { "name": "Kali Linux Tools", "key": "kali_tools" },
+            { "name": "Kali Linux Commands", "key": "kali_commands" },
+            { "name": "Kali Linux Network Configuration", "key": "kali_network" },
+            { "name": "Kali Linux Security", "key": "kali_security" },
+            { "name": "Kali Linux Troubleshooting", "key": "kali_troubleshooting" }
         ]
     }
 ]

@@ -210,11 +210,9 @@ body {
   }
 
   .content {
-      width: 100%;
       overflow-y: auto;  /* Ensure content scrolls if necessary */
       flex: 1;           /* Let it expand */
       min-height: 100vh; /* Ensure it fills the screen */
-
   }
 
   /* Sidebar Footer */

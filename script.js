@@ -79,6 +79,13 @@ function showContent(topic) {
                 ul.appendChild(li);
             });
             contentArea.appendChild(ul);
+        } else if (section.type === "pdf") {
+            let iframe = document.createElement("iframe");
+            iframe.src = section.value;
+            iframe.width = "100%";
+            iframe.height = "500px"; // Adjust as needed
+            iframe.style.border = "none";
+            contentArea.appendChild(iframe);
         }
     });
 }

@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Splunk",
+        "file": "splunk.json",
+        "topics": [
+            { "name": "Introduction to Splunk", "key": "splunk_introduction"},
+            { "name": "Splunk Installation on Windows", "key": "splunk_install_windows" },
+            { "name": "Splunk Installation on Linux", "key": "splunk_install_linux" },
+            { "name": "Splunk Universal Forwarders", "key": "splunk_forwarders" },
+            { "name": "Add Data to Splunk", "key": "add_data_splunk" },
+            { "name": "Search on Splunk", "key": "search_splunk" },
+            { "name": "Splunk Reports", "key": "splunk_reports" },
+            { "name": "Alerts on Splunk", "key": "splunk_alerts" },
+            { "name": "Dashboards", "key": "dashboards" },
+            { "name": "Splunk Health Status Check", "key": "splunk_health_check" },
+            { "name": "User Management on Splunk", "key": "user_management_splunk" }
+        ]
+    },
+    {
+        "name": "Wazuh",
+        "file": "wazuh.json",
+        "topics": [
+            { "name": "Introduction to Wazuh", "key": "wazuh_introduction" },
+            { "name": "Wazuh Installation on Windows", "key": "wazuh_install_windows" },
+            { "name": "Wazuh Installation on Linux", "key": "wazuh_install_linux" }
+        ]
+    }
+]
